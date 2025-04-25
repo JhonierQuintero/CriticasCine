@@ -24,4 +24,13 @@ El guion de *Interstellar*, escrito por los hermanos Nolan, es una ambiciosa mez
 
 Matthew McConaughey ofrece una interpretación magistral como Cooper, combinando carisma, vulnerabilidad y determinación. Su escena en la nave, reaccionando a mensajes del pasado, es un punto álgido emocional. Anne Hathaway, como la científica Amelia Brand, aporta una mezcla de intelecto y humanidad, aunque su personaje está menos desarrollado. Jessica Chastain brilla como la adulta Murph, transmitiendo inteligencia y dolor con sutileza. El reparto secundario, incluyendo a Michael Caine y Matt Damon (en un papel sorpresa), añade profundidad, aunque algunos personajes secundarios tienen menos tiempo en pantalla del deseado. La química entre McConaughey y Chastain, a pesar de no compartir escenas físicas, es poderosa gracias a la dirección de Nolan.
 
+## Imagen
 
+<p align="center">
+  <img width="500" src="https://i.postimg.cc/fWB14GJB/interlestellar.jpg">
+</p>
+
+
+## Mensaje Personal
+
+*Interstellar* me impactó por su capacidad de hacerme sentir pequeño ante la vastedad del cosmos, pero al mismo tiempo esperanzado por el poder del amor y la resiliencia humana. Es una película que no solo entretiene, sino que invita a cuestionar nuestra relación con el tiempo, la ciencia y los seres queridos. Su mensaje sobre el sacrificio por las generaciones futuras resuena profundamente en un mundo enfrentado a crisis ambientales. Es un recordatorio de que, incluso en la oscuridad del espacio, la humanidad puede encontrar luz a través de la conexión y la curiosidad.

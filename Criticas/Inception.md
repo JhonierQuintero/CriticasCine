@@ -15,3 +15,9 @@
 ## Sinopsis
 
 Dom Cobb, un ladrón especializado en infiltrarse en los sueños para robar secretos, recibe un encargo único: implantar una idea en la mente de una persona mientras duerme, un proceso conocido como "incepción". Para lograrlo, Cobb reúne un equipo de expertos y se adentra en múltiples niveles de sueños, donde el tiempo, la realidad y el peligro se distorsionan. Mientras enfrenta amenazas internas y externas, Cobb lucha con su propia conexión con los sueños y la realidad.
+
+## Análisis del Guion
+
+El guion de *Inception*, escrito por Christopher Nolan tras una década de desarrollo, es un rompecabezas narrativo que combina acción, filosofía y psicología. La premisa de los sueños dentro de sueños permite una estructura innovadora, con reglas claras (como el uso de tótems o la dilatación del tiempo) que mantienen al espectador anclado en un mundo complejo. Los diálogos son densos, pero necesarios para explicar las mecánicas del sueño, y están equilibrados con momentos de tensión emocional, especialmente en la historia de Cobb y su esposa, Mal. Los temas de realidad, percepción y redención están tejidos con maestría, y el final ambiguo es un golpe maestro que invita al debate. Aunque algunos critican su frialdad emocional, el guion es un logro intelectual que recompensa múltiples visionados.
+
+

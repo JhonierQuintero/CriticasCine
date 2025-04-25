@@ -24,3 +24,13 @@ El guion de *Inception*, escrito por Christopher Nolan tras una década de desar
 
 Leonardo DiCaprio lidera el reparto como Cobb con una intensidad magnética, cargando el peso emocional de un hombre atrapado entre la culpa y la esperanza. Su interpretación ancla la película, especialmente en las escenas con Marion Cotillard, quien como Mal es etérea y trágica. Joseph Gordon-Levitt, como Arthur, aporta un carisma práctico, mientras que Ellen Page (ahora Elliot Page), como Ariadne, ofrece curiosidad y empatía como la guía del espectador. Tom Hardy y Cillian Murphy añaden carisma y matices a roles secundarios. El elenco funciona como un conjunto cohesionado, haciendo creíbles las dinámicas de equipo en un mundo surrealista.
 
+## Imagen
+
+<p align="center">
+  <img width="500" src="https://i.postimg.cc/brWgVQpb/inception.jpg">
+</p>
+
+
+## Mensaje Personal
+
+*Inception* me fascinó por su capacidad de desafiar mi percepción de la realidad. Es una película que no solo entretiene, sino que te obliga a pensar en tus propios sueños, decisiones y verdades. La idea de que nuestras mentes pueden ser nuestro mayor campo de batalla resonó conmigo, y el final me dejó reflexionando sobre la importancia de aceptar la realidad que elegimos. Es un recordatorio de que el cine puede ser arte, entretenimiento y filosofía al mismo tiempo.

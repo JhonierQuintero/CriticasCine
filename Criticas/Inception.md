@@ -15,4 +15,3 @@
 ## Sinopsis
 
 Dom Cobb, un ladrón especializado en infiltrarse en los sueños para robar secretos, recibe un encargo único: implantar una idea en la mente de una persona mientras duerme, un proceso conocido como "incepción". Para lograrlo, Cobb reúne un equipo de expertos y se adentra en múltiples niveles de sueños, donde el tiempo, la realidad y el peligro se distorsionan. Mientras enfrenta amenazas internas y externas, Cobb lucha con su propia conexión con los sueños y la realidad.
-

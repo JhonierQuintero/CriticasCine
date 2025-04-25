@@ -16,5 +16,7 @@
 
 Miguel, un niño mexicano apasionado por la música, sueña con ser músico a pesar de la prohibición de su familia, que asocia la música con una traición del pasado. Durante el Día de los Muertos, Miguel accidentalmente cruza al mundo de los muertos, donde conoce a sus antepasados y descubre la verdad sobre su legado familiar. Con la ayuda de un encantador esqueleto llamado Héctor, Miguel busca cumplir su sueño y honrar a su familia.
 
+## Análisis del Guion
 
+El guion de *Coco* es un triunfo de narrativa emocional y culturalmente específica. Molina y Aldrich crean una historia que equilibra humor, aventura y temas profundos como la memoria, la familia y la identidad. La estructura sigue el clásico viaje del héroe, pero se siente fresca gracias a su ambientación en el Día de los Muertos y su respeto por la cultura mexicana. Los diálogos son naturales, con un toque de humor que apela a todas las edades, y los giros narrativos (especialmente sobre la identidad de ciertos personajes) están bien ejecutados y emotivos. Los temas de reconciliación generacional y el poder de recordar a los seres queridos resuenan universalmente, mientras que los detalles culturales —ofrendas, alebrijes, música— añaden autenticidad. El guion evita estereotipos, ofreciendo una celebración vibrante de la tradición mexicana.
 

@@ -24,4 +24,13 @@ El guion de *Parasite* es una obra maestra de precisión narrativa y comentario 
 
 El reparto coral de *Parasite* es excepcional, con cada actor aportando matices a sus personajes. Song Kang-ho, como el patriarca Kim Ki-taek, transmite una mezcla de astucia, desesperación y resignación que ancla la película. Park So-dam, como la hija Ki-jung, brilla con su carisma manipulador, mientras que Choi Woo-shik (Ki-woo) equilibra idealismo y pragmatismo. La familia Park, liderada por Lee Sun-kyun y Cho Yeo-jeong, retrata a la élite con una ingenuidad que roza la parodia sin caricaturizar. La química entre las dos familias crea un contraste dinámico, haciendo que cada interacción sea creíble y cargada de tensión. Bong Joon-ho saca lo mejor de su elenco, logrando actuaciones naturales pero intensas.
 
+## Imagen
 
+<p align="center">
+  <img width="500" src="https://i.postimg.cc/1XnGjVgx/parasite.png">
+</p>
+
+
+## Mensaje Personal
+
+*Parasite* me dejó reflexionando sobre las estructuras invisibles que dividen a las personas: riqueza, pobreza, poder. Su genialidad radica en que no toma partido, sino que muestra la humanidad y las fallas de ambos lados. La película me hizo cuestionar mi propio lugar en el mundo y cómo las decisiones individuales están moldeadas por sistemas más grandes. Es un recordatorio incómodo pero necesario de que la desigualdad no es solo económica, sino profundamente humana, y que el cambio requiere empatía y acción.
